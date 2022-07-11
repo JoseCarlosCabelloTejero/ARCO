@@ -1,0 +1,8 @@
+MATMUL:
+  C = A * B.
+  Order N                 = 300
+  Elapsed seconds = 0.0919014
+  C(100,100)  = 1
+
+Matmul:
+  Normal end of execution.
